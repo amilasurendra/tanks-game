@@ -1,0 +1,20 @@
+c:\users\amila\documents\visual studio 2010\Projects\GameTest\GameTest\GameTest\bin\x86\Debug\GameTest.exe
+c:\users\amila\documents\visual studio 2010\Projects\GameTest\GameTest\GameTest\bin\x86\Debug\GameTest.pdb
+c:\users\amila\documents\visual studio 2010\Projects\GameTest\GameTest\GameTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\amila\documents\visual studio 2010\Projects\GameTest\GameTest\GameTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\amila\documents\visual studio 2010\Projects\GameTest\GameTest\GameTest\obj\x86\Debug\GameTest.exe
+c:\users\amila\documents\visual studio 2010\Projects\GameTest\GameTest\GameTest\obj\x86\Debug\GameTest.pdb
+c:\users\amila\documents\visual studio 2010\Projects\GameTest\GameTest\GameTest\bin\x86\Debug\Content\MY_Tank.xnb
+C:\Users\Amila\documents\visual studio 2010\Projects\GameTest\GameTest\GameTest\bin\x86\Debug\Content\brick_wall.xnb
+C:\Users\Amila\documents\visual studio 2010\Projects\GameTest\GameTest\GameTest\bin\x86\Debug\Content\stone.xnb
+C:\Users\Amila\documents\visual studio 2010\Projects\GameTest\GameTest\GameTest\bin\x86\Debug\Content\water.xnb
+E:\Amila\Semester4\Programming Challenge\GameTest\GameTest\GameTest\bin\x86\Debug\Content\MY_Tank.xnb
+E:\Amila\Semester4\Programming Challenge\GameTest\GameTest\GameTest\bin\x86\Debug\Content\brick_wall.xnb
+E:\Amila\Semester4\Programming Challenge\GameTest\GameTest\GameTest\bin\x86\Debug\Content\stone.xnb
+E:\Amila\Semester4\Programming Challenge\GameTest\GameTest\GameTest\bin\x86\Debug\Content\water.xnb
+E:\Amila\Semester4\Programming Challenge\GameTest\GameTest\GameTest\bin\x86\Debug\GameTest.exe
+E:\Amila\Semester4\Programming Challenge\GameTest\GameTest\GameTest\bin\x86\Debug\GameTest.pdb
+E:\Amila\Semester4\Programming Challenge\GameTest\GameTest\GameTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Amila\Semester4\Programming Challenge\GameTest\GameTest\GameTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Amila\Semester4\Programming Challenge\GameTest\GameTest\GameTest\obj\x86\Debug\GameTest.exe
+E:\Amila\Semester4\Programming Challenge\GameTest\GameTest\GameTest\obj\x86\Debug\GameTest.pdb

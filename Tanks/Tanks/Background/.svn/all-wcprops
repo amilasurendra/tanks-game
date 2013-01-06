@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mytanksgame/!svn/ver/7/TanksGame/trunk/Tanks/Tanks/Background
+END
+Tile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mytanksgame/!svn/ver/9/TanksGame/trunk/Tanks/Tanks/Background/Tile.cs
+END
+Tank.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mytanksgame/!svn/ver/8/TanksGame/trunk/Tanks/Tanks/Background/Tank.cs
+END
+CoinUpdater.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mytanksgame/!svn/ver/11/TanksGame/trunk/Tanks/Tanks/Background/CoinUpdater.cs
+END
+BackGround.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mytanksgame/!svn/ver/11/TanksGame/trunk/Tanks/Tanks/Background/BackGround.cs
+END
+HealthUpdater.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mytanksgame/!svn/ver/10/TanksGame/trunk/Tanks/Tanks/Background/HealthUpdater.cs
+END

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>MY_Tank.png</Source>
+      <Name>MY_Tank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Amila\Semester4\Programming Challenge\Tanks\Tanks\Tanks\bin\x86\Release\Content\MY_Tank.xnb</Output>
+      <Time>2011-06-12T10:32:03.4586933+05:30</Time>
+    </Item>
+    <Item>
+      <Source>brick_wall.png</Source>
+      <Name>brick_wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Amila\Semester4\Programming Challenge\Tanks\Tanks\Tanks\bin\x86\Release\Content\brick_wall.xnb</Output>
+      <Time>2011-06-11T08:47:05.72499+05:30</Time>
+    </Item>
+    <Item>
+      <Source>stone.png</Source>
+      <Name>stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Amila\Semester4\Programming Challenge\Tanks\Tanks\Tanks\bin\x86\Release\Content\stone.xnb</Output>
+      <Time>2011-06-11T08:58:12.9161511+05:30</Time>
+    </Item>
+    <Item>
+      <Source>water.png</Source>
+      <Name>water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Amila\Semester4\Programming Challenge\Tanks\Tanks\Tanks\bin\x86\Release\Content\water.xnb</Output>
+      <Time>2011-06-11T09:00:24.8346964+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Other_Tank.png</Source>
+      <Name>Other_Tank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Amila\Semester4\Programming Challenge\Tanks\Tanks\Tanks\bin\x86\Release\Content\Other_Tank.xnb</Output>
+      <Time>2011-12-09T09:40:21.4110465+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Coin.png</Source>
+      <Name>Coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Amila\Semester4\Programming Challenge\Tanks\Tanks\Tanks\bin\x86\Release\Content\Coin.xnb</Output>
+      <Time>2011-12-14T14:42:36.4868187+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>E:\Amila\Semester4\Programming Challenge\Tanks\Tanks\Content\</RootDirectory>
+      <LoggerRootDirectory>E:\Amila\Semester4\Programming Challenge\Tanks\Tanks\Tanks\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Amila\Semester4\Programming Challenge\Tanks\Tanks\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>E:\Amila\Semester4\Programming Challenge\Tanks\Tanks\Tanks\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-09-27T16:24:57.886804+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

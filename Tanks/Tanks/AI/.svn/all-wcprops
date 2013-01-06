@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mytanksgame/!svn/ver/7/TanksGame/trunk/Tanks/Tanks/AI
+END
+PathFind.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mytanksgame/!svn/ver/14/TanksGame/trunk/Tanks/Tanks/AI/PathFind.cs
+END
+HealthData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mytanksgame/!svn/ver/10/TanksGame/trunk/Tanks/Tanks/AI/HealthData.cs
+END
+Main.resx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mytanksgame/!svn/ver/4/TanksGame/trunk/Tanks/Tanks/AI/Main.resx
+END
+CoinData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mytanksgame/!svn/ver/11/TanksGame/trunk/Tanks/Tanks/AI/CoinData.cs
+END
+Main.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mytanksgame/!svn/ver/8/TanksGame/trunk/Tanks/Tanks/AI/Main.Designer.cs
+END
+Main.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mytanksgame/!svn/ver/12/TanksGame/trunk/Tanks/Tanks/AI/Main.cs
+END
+Play.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mytanksgame/!svn/ver/15/TanksGame/trunk/Tanks/Tanks/AI/Play.cs
+END
+Move.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mytanksgame/!svn/ver/14/TanksGame/trunk/Tanks/Tanks/AI/Move.cs
+END
+TankData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mytanksgame/!svn/ver/9/TanksGame/trunk/Tanks/Tanks/AI/TankData.cs
+END

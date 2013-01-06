@@ -1,0 +1,2 @@
+c:\users\amila\documents\visual studio 2010\Projects\GameTest\GameTest\GameTestContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Amila\Semester4\Programming Challenge\GameTest\GameTest\GameTestContent\obj\x86\Debug\ResolveAssemblyReference.cache

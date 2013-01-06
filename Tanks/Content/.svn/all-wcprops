@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mytanksgame/!svn/ver/7/TanksGame/trunk/Tanks/Content
+END
+Other_Tank.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mytanksgame/!svn/ver/3/TanksGame/trunk/Tanks/Content/Other_Tank.png
+END
+MY_Tank.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mytanksgame/!svn/ver/2/TanksGame/trunk/Tanks/Content/MY_Tank.png
+END
+water.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mytanksgame/!svn/ver/2/TanksGame/trunk/Tanks/Content/water.png
+END
+health.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mytanksgame/!svn/ver/12/TanksGame/trunk/Tanks/Content/health.png
+END
+stone.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mytanksgame/!svn/ver/2/TanksGame/trunk/Tanks/Content/stone.png
+END
+Coin.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mytanksgame/!svn/ver/12/TanksGame/trunk/Tanks/Content/Coin.png
+END
+brick_wall.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mytanksgame/!svn/ver/2/TanksGame/trunk/Tanks/Content/brick_wall.png
+END
+Content.contentproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mytanksgame/!svn/ver/9/TanksGame/trunk/Tanks/Content/Content.contentproj
+END
